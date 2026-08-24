@@ -37,7 +37,7 @@ A turn-based memory-matching game featuring an intelligent AI opponent that trac
 - Real-time game state management & win/loss tracking
 
 **Tech Stack:** JavaScript | HTML/CSS | AWS S3  
-🔗 [Play Live Demo](https://your-demo-link.s3.amazonaws.com)
+🔗 [Play Live Demo]([https://your-demo-link.s3.amazonaws.com](http://fez-memoy-game.s3-website.eu-north-1.amazonaws.com))
 
 ---
 
