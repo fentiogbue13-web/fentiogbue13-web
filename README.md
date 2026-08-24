@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**BSc Computer Science @ University of Kent | Cloud & Systems Engineer in the Making**
+BSc Computer Science @ University of Kent | Apiring  Cloud & Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fentiogbue13@gmail.com)
