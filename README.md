@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danielle Ogbue
+# 👋 Hi, I'm Fenti Ogbue
 
 <div align="center">
 
