@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm actively learning by building projects that tackle real problems, while exploring areas such as software development, AI, cybersecurity, and data. I'm keen to keep learning, take on new challenges, and gain hands-on experience through internships and placement opportunities.
+I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm activel[...]
 
 ---
 
@@ -53,7 +53,7 @@ A vehicle-hire system for a taxi/bus company demonstrating **Object-Oriented Pro
 ---
 
 ### Matching Pairs Game with Heuristic AI Opponent
-A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic through [...]
+A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic throug[...]
 
 **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ A front-end browser game showcasing **problem-solving** and **debugging**—buil
 
 **Key Features:** Memory-based AI with state tracking · Probabilistic decision-making · Race condition debugging in turn logic · 500-game headless benchmarking suite for statistical validation
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web/memory-game)
 
 ---
 
@@ -82,9 +82,9 @@ A front-end browser game showcasing **problem-solving** and **debugging**—buil
 AI & machine learning: Curious about how systems can make intelligent decisions
 Cloud & multi-cloud architecture: Exploring distributed systems and infrastructure
 Full-stack development: Building on front-end foundations to understand the bigger picture
-I'm building my skills through hands-on projects that tackle real problems while exploring different areas of Computer Science. I'm keen to keep learning, take on new challenges, and gain real-world experience through placement and internship opportunities.
+I'm building my skills through hands-on projects that tackle real problems while exploring different areas of Computer Science. I'm keen to keep learning, take on new challenges, and gain real-wor[...]
 
-I'm continuing to develop my skills through hands-on projects while exploring different areas of Computer Science. I'm open to discovering where my interests take me and keen to gain real-world experience through placement and internship opportunities
+I'm continuing to develop my skills through hands-on projects while exploring different areas of Computer Science. I'm open to discovering where my interests take me and keen to gain real-world ex[...]
 
 ---
 
