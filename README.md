@@ -1,158 +1,88 @@
-# 👋 Hi, I'm Fenti Ogbue
+# Hi, I'm Ifeyinwa Ogbue 👋
 
-<div align="center">
+**2nd-year BSc (Hons) Computer Science student at the University of Kent** | Exploring AI & cloud architecture | Open to internship & placement opportunities
 
-MComp Computer Science @ University of Leicester | Data Centre Engineer & Full-Stack Builder
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fentiogbue13@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fentiogbue13-web)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fenti-ogbue-326206283)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:fentiogbue13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
 
 ---
 
-## 🎯 About Me
+## 📌 About Me
 
-I'm currently working as a **Data Centre Engineer at WaveNet** during my placement year while pursuing an MComp in Computer Science. I'm building robust, scalable systems across different infrastructure layers—from VoIP platforms handling live production traffic to enterprise data centre infrastructure and machine learning pipelines.
-
-### What I care about:
-
-- 🏗️ **Building systems that work reliably at scale** — Understanding performance, trade-offs, and real-world constraints
-- 🔧 **Understanding how things work from the fundamentals** — Deep dives into system architecture and operations
-- 💡 **Answering complex questions & providing effective solutions** — Turning problems into opportunities
-- 📊 **Maintaining deep understanding** — Not just implementing, but mastering the systems I work with
-- ⚖️ **Meritocracy** — Results matter more than titles
+I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm actively learning by building projects that tackle real problems, and I'm currently exploring AI and cloud architecture while deciding on a specialisation. I'm applying for Year in Industry and summer internship placements to gain hands-on **software development** experience.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
 
-**Backend & Databases:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**DevOps & Infrastructure:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Networking & Systems:**  
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
-
-**Specializations:**
-- **ML & Data Science** — Collaborative filtering, neural networks, data analysis
-- **System Architecture** — Layered design, API design, database optimization, scalability
-- **Networking & VoIP** — OSI model, TCP/IP, SIP protocols, FreePBX/Asterisk, live call routing
-- **Server Administration** — Linux, VPS management, production infrastructure
+**Tools & Version Control:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🗂️ Projects
+## 💼 Projects
 
-### 🎮 Memory Duel — Card Game vs AI
-A turn-based memory-matching game featuring an intelligent AI opponent that tracks board state using probabilistic decision-making.
+### Cab Company Management System
+A vehicle-hire system for a taxi/bus company demonstrating **Object-Oriented Programming** fundamentals—abstract superclasses with polymorphic fare logic, efficient **data structure** design, and real-world **problem-solving** through **debugging**.
 
-**Highlights:**
-- 97.8% AI win rate over 500 simulated games
-- Live deployment on AWS S3
-- Real-time game state management & win/loss tracking
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Inheritance-blue?style=flat-square)
+![Data%20Structures](https://img.shields.io/badge/Data%20Structures-HashMap-lightblue?style=flat-square)
 
-**Tech Stack:** JavaScript | HTML/CSS | AWS S3  
-🔗 **[Play Live Demo](http://fez-memoy-game.s3-website.eu-north-1.amazonaws.com)** | [View Repository](#)
+**Key Features:** Abstract Vehicle superclass with Cab/Bus polymorphism · O(1) vehicle lookup with HashMap · Circular-array logic for wrap-around routes · CSV parsing & automated daily reporting
 
----
-
-### 📈 Stock Recommendation Engine (In Progress)
-Machine learning system recommending stocks using multiple algorithms with backtesting capabilities.
-
-**Highlights:**
-- Multi-algorithm ensemble approach
-- Portfolio optimization & performance analysis
-- Financial metrics (Sharpe ratio, drawdown analysis)
-
-**Tech Stack:** Python | scikit-learn | pandas | Streamlit | MySQL  
-[View Repository](#)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
 
 ---
 
-### 🚀 VoIP & Telephony Platform (Production)
-Full-stack VoIP system managing live business call traffic in real production environments.
+### Matching Pairs Game with Heuristic AI Opponent
+A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic through **automated testing** rather than manual trial.
 
-**Highlights:**
-- 10+ concurrent calls with stable uptime
-- DTMF-based call routing & SIP trunk management
-- Multi-department workflows serving actual clients
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+![Testing](https://img.shields.io/badge/Automated%20Testing-green?style=flat-square)
 
-**Tech Stack:** FreePBX/Asterisk | JavaScript | Linux | VPS  
-[View Repository](#)
+**Key Features:** Memory-based AI with state tracking · Probabilistic decision-making · Race condition debugging in turn logic · 500-game headless benchmarking suite for statistical validation
 
----
-
-### 📚 Book Recommender Pipeline
-Neural network-based recommendation system using collaborative filtering and embedding techniques.
-
-**Highlights:**
-- TensorFlow/Keras neural network embeddings
-- Sparse matrix optimization
-- Python 3.13 compatibility resolution
-
-**Tech Stack:** Python | TensorFlow/Keras | Pandas | scikit-learn  
-[View Repository](#)
-
----
-
-### 📊 Data Analysis & Visualization Tools
-Python-based analysis for international trade patterns, financial data processing, and anomaly detection.
-
-**Highlights:**
-- Trade route & sanctions analysis
-- Financial data processing
-- Data cleaning & visualization
-
-**Tech Stack:** Python | Pandas | Matplotlib/Seaborn  
-[View Repository](#)
-
----
-
-## 🚀 Currently Building
-
-- Production-ready machine learning systems with real-world datasets
-- Understanding financial markets & quantitative analysis
-- Deep diving into system architecture and scalability patterns
-- Linux server infrastructure automation and DevOps practices
-- Reading: Hull's *"Options, Futures, and Other Derivatives"* & Pilbeam's *"Finance and Financial Markets"*
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
 
 ---
 
 ## 🎓 Education
 
-**MComp Computer Science** | University of Leicester  
-**Previous:** D*D*D* in Applied Science (A-level equivalent, 168 UCAS points)
+**BSc (Hons) Computer Science**  
+*University of Kent* | Expected graduation: 2028 (2029 with Year in Industry)
+
+**IB Diploma**  
+*The Rochester Grammar School for Girls*
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- **AI & machine learning**: Curious about how systems can make intelligent decisions
+- **Cloud & multi-cloud architecture**: Exploring distributed systems and infrastructure
+- **Full-stack development**: Building on front-end foundations to understand the bigger picture
+
+I'm early in my coding journey and genuinely open to exploring different areas of Computer Science—placement and internship experiences will help me narrow down my specialisation.
 
 ---
 
 ## 💬 Let's Connect
 
-Feel free to reach out for collaborations, technical discussions, or opportunities:
+Always happy to chat about projects, ideas, or opportunities!
 
-📧 **Email:** fentiogbue13@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)  
-💻 **GitHub:** [@fentiogbue13-web](https://github.com/fentiogbue13-web)
-
----
-
-<div align="center">
-
-**⭐ If you find my work interesting, feel free to star my repos and reach out!**
-
-*"We are judged purely on the consequences of our execution." ― Nassim Nicholas Taleb*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fenti-ogbue-326206283)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:fentiogbue13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
