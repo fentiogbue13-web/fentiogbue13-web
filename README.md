@@ -72,7 +72,7 @@ A front-end browser game showcasing **problem-solving** and **debugging**—buil
 *University of Kent* | Expected graduation: 2028 (2029 with Year in Industry)
 
 **IB Diploma**  Mathematics (6), Business (6), Anthropology (6), English Literature (5), Sports Science (5), Spanish (5)
-              *The Rochester Grammar School for Girls*
+                  b *The Rochester Grammar School for Girls*
 
 ---
 
