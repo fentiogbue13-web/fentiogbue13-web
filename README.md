@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm actively learning by building projects that tackle real problems, and I'm currently exploring AI and cloud architecture while deciding on a specialisation.
+I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm actively learning by building projects that tackle real problems across different areas of tech, from software development and AI to cybersecurity, data science, and cloud. I'm open to exploring new areas and keen to gain experience through internships.
 
 ---
 
