@@ -48,7 +48,7 @@ A vehicle-hire system for a taxi/bus company demonstrating **Object-Oriented Pro
 
 **Key Features:** Abstract Vehicle superclass with Cab/Bus polymorphism · O(1) vehicle lookup with HashMap · Circular-array logic for wrap-around routes · CSV parsing & automated daily reportin[...]
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web/cab-company-management-system)
 
 ---
 
