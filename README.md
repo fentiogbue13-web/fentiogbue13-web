@@ -10,43 +10,50 @@
 
 ## 📌 About Me
 
-I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm actively learning by building projects that tackle real problems, and I'm currently exploring AI and cloud architecture while deciding on a specialisation. I'm applying for Year in Industry and summer internship placements to gain hands-on **software development** experience.
+I'm a second-year Computer Science student genuinely curious about how systems work—from **Object-Oriented Programming** fundamentals to **problem-solving** with **data structures**. I'm actively learning by building projects that tackle real problems, and I'm currently exploring AI and cloud architecture while deciding on a specialisation.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Version Control:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=white)
+
+### DevOps & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-1F6B3F?style=for-the-badge&logo=juniper&logoColor=white)
 
 ---
 
 ## 💼 Projects
 
 ### Cab Company Management System
-A vehicle-hire system for a taxi/bus company demonstrating **Object-Oriented Programming** fundamentals—abstract superclasses with polymorphic fare logic, efficient **data structure** design, and real-world **problem-solving** through **debugging**.
+A vehicle-hire system for a taxi/bus company demonstrating **Object-Oriented Programming** fundamentals—abstract superclasses with polymorphic fare logic, efficient **data structure** design, an[...]
 
 **Tech Stack:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Inheritance-blue?style=flat-square)
 ![Data%20Structures](https://img.shields.io/badge/Data%20Structures-HashMap-lightblue?style=flat-square)
 
-**Key Features:** Abstract Vehicle superclass with Cab/Bus polymorphism · O(1) vehicle lookup with HashMap · Circular-array logic for wrap-around routes · CSV parsing & automated daily reporting
+**Key Features:** Abstract Vehicle superclass with Cab/Bus polymorphism · O(1) vehicle lookup with HashMap · Circular-array logic for wrap-around routes · CSV parsing & automated daily reportin[...]
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/fentiogbue13-web)
 
 ---
 
 ### Matching Pairs Game with Heuristic AI Opponent
-A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic through **automated testing** rather than manual trial.
+A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic throug[...]
 
 **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
