@@ -82,6 +82,7 @@ A front-end browser game showcasing **problem-solving** and **debugging**—buil
 AI & machine learning: Curious about how systems can make intelligent decisions
 Cloud & multi-cloud architecture: Exploring distributed systems and infrastructure
 Full-stack development: Building on front-end foundations to understand the bigger picture
+I'm building my skills through hands-on projects that tackle real problems while exploring different areas of Computer Science. I'm keen to keep learning, take on new challenges, and gain real-world experience through placement and internship opportunities.
 
 I'm continuing to develop my skills through hands-on projects while exploring different areas of Computer Science. I'm open to discovering where my interests take me and keen to gain real-world experience through placement and internship opportunities
 
