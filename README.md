@@ -1,6 +1,6 @@
 # Hi, I'm Ifeyinwa Ogbue 👋
 
-**2nd-year BSc (Hons) Computer Science student at the University of Kent** | Exploring AI & cloud architecture | Open to internship & placement opportunities
+**2nd-year BSc (Hons) Computer Science student at the University of Kent** | Open to internship & placement opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fenti-ogbue-326206283)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:fentiogbue13@gmail.com)
@@ -53,7 +53,7 @@ A vehicle-hire system for a taxi/bus company demonstrating **Object-Oriented Pro
 ---
 
 ### Matching Pairs Game with Heuristic AI Opponent
-A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic throug[...]
+A front-end browser game showcasing **problem-solving** and **debugging**—building a memory-based AI opponent with imperfect recall, plus a headless benchmarking tool that validates logic through [...]
 
 **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -71,18 +71,18 @@ A front-end browser game showcasing **problem-solving** and **debugging**—buil
 **BSc (Hons) Computer Science**  
 *University of Kent* | Expected graduation: 2028 (2029 with Year in Industry)
 
-**IB Diploma**  
+**IB Diploma**  Mathematics (6), Business (6), Anthropology (6), English Literature (5), Sports Science (5), Spanish (5)
 *The Rochester Grammar School for Girls*
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-- **AI & machine learning**: Curious about how systems can make intelligent decisions
-- **Cloud & multi-cloud architecture**: Exploring distributed systems and infrastructure
-- **Full-stack development**: Building on front-end foundations to understand the bigger picture
+AI & machine learning: Curious about how systems can make intelligent decisions
+Cloud & multi-cloud architecture: Exploring distributed systems and infrastructure
+Full-stack development: Building on front-end foundations to understand the bigger picture
 
-I'm early in my coding journey and genuinely open to exploring different areas of Computer Science—placement and internship experiences will help me narrow down my specialisation.
+I'm continuing to develop my skills through hands-on projects while exploring different areas of Computer Science. I'm open to discovering where my interests take me and keen to gain real-world experience through placement and internship opportunities
 
 ---
 
