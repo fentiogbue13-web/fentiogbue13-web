@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi, I'm Ifeyinwa Ogbue 👋
 
 **2nd-year BSc (Hons) Computer Science student at the University of Kent** | Open to internship & placement opportunities
 
 [LinkedIn](https://linkedin.com/in/fenti-ogbue-326206283) | [Email](mailto:fentiogbue13@gmail.com) | [GitHub](https://github.com/fentiogbue13-web)
+
+</div>
 
 ---
 
@@ -15,21 +19,21 @@ I'm a second-year Computer Science student at the University of Kent who enjoys 
 ## 🛠️ Technical Skills
 
 ### Languages
-- Python
-- Java
-- SQL
-- JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend & Databases
-- FastAPI
-- MySQL
-- REST API
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF5722?style=for-the-badge&logoColor=white)
 
 ### DevOps & Infrastructure
-- Git
-- AWS
-- Cisco
-- Juniper
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-080A3C?style=for-the-badge&logo=juniper-networks&logoColor=white)
 
 ---
 
@@ -37,7 +41,7 @@ I'm a second-year Computer Science student at the University of Kent who enjoys 
 
 ### Cab Company Management System
 
-I built this Java project as a way to put my understanding of object-oriented programming and data structures into practice. I wanted to go beyond just writing separate classes and actually think about how a vehicle-hire system could be organised and managed. I used an abstract `Vehicle` superclass with `Cab` and `Bus` subclasses, allowing each vehicle type to handle its own fare calculations through polymorphism. I also worked with `HashMap` for efficient vehicle lookups, CSV files for booking data and circular-array logic to handle bus routes that wrap around. Building the project helped me understand how different parts of a system fit together and gave me more confidence working with Java, data structures and problem-solving.
+I built this Java project as a way to put my understanding of object-oriented programming and data structures into practice. I wanted to go beyond just writing separate classes and actually think about how different components interact and how to structure data for efficiency.
 
 **Tech Stack:** Java · Object-Oriented Programming · Data Structures
 
@@ -53,7 +57,7 @@ I built this Java project as a way to put my understanding of object-oriented pr
 
 ### Matching Pairs Game with Heuristic AI Opponent
 
-I built this browser game to challenge myself with something a bit more than a standard matching-pairs game. Alongside the game itself, I wanted to create an AI opponent that could make decisions based on what it had previously seen rather than simply choosing cards at random. I gave the AI a memory system with imperfect recall and used probabilistic decision-making to make its behaviour less predictable. While developing the game, I also had to track down a race condition affecting the turn logic, which gave me a good opportunity to practise debugging and understand why small timing issues can cause unexpected behaviour. I then built a headless benchmarking tool and ran 500 games to test the AI's behaviour and validate that the game logic was working as expected. This project was especially useful for me because it combined JavaScript, problem-solving, debugging and testing in one project.
+I built this browser game to challenge myself with something a bit more than a standard matching-pairs game. Alongside the game itself, I wanted to create an AI opponent that could make decisions based on memory and probability, which meant thinking carefully about state management and testing.
 
 **Tech Stack:** JavaScript · HTML/CSS · Testing
 
