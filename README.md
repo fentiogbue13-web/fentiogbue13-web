@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 
-I'm a second-year Computer Science student at the University of Kent, building my skills through projects and coursework. I enjoy solving problems, understanding how things work and turning what I learn into something practical. I'm currently exploring different areas of Computer Science, including software development, AI, cybersecurity and data, while looking for opportunities to gain real-world experience through internships and placement opportunities.
+I'm a second-year Computer Science student at the University of Kent who enjoys understanding how technology can be used to solve real-world problems. I like taking what I learn in lectures and coursework and turning it into something practical, whether that's building a project, working through a difficult problem or figuring out why something isn't working. I'm interested in learning how different areas of Computer Science connect and I'm keen to keep developing my skills through hands-on experience.
 
 ---
 
@@ -69,7 +69,7 @@ I built this browser game to challenge myself with something a bit more than a s
 
 ## 🌱 Currently Learning & Exploring
 
-I'm building my skills through hands-on projects while exploring different areas of Computer Science. At the moment, I'm particularly interested in AI and machine learning, cloud architecture and full-stack development. I enjoy learning by actually building things, testing ideas and figuring out what works.
+I'm currently building my skills across different areas of Computer Science and enjoying the process of figuring out what interests me most. At the moment, I'm spending time learning more about AI and machine learning, cloud architecture and full-stack development. I like learning by experimenting, building projects and getting things wrong before figuring out how to make them work better.
 
 ---
 
