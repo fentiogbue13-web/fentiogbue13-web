@@ -51,7 +51,7 @@ I built this Java project as a way to put my understanding of object-oriented pr
 - Circular-array logic for wrap-around bus routes
 - CSV parsing and automated daily reporting
 
-[**View Repository**](https://github.com/fentiogbue13-web/cab-company-management-system)
+<a href="https://github.com/fentiogbue13-web/cab-company-management-system"><img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
 
 ---
 
@@ -67,7 +67,24 @@ I built this browser game to challenge myself with something a bit more than a s
 - Race condition debugging in turn logic
 - 500-game headless benchmarking suite for statistical validation
 
-[**View Repository**](https://github.com/fentiogbue13-web/memory-game)
+<a href="https://github.com/fentiogbue13-web/memory-game"><img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+
+---
+
+### Property Monitor
+
+I built this Python project to explore how web scraping could be turned into something more useful than just collecting data. The goal is to monitor property listings, detect new homes and eventually match them against saved searches based on things like location, budget, bedrooms and property type.
+
+**Tech Stack:** Python · BeautifulSoup · Requests · Pytest
+
+**Key Features:**
+- Config-driven HTML scraping for different listing sites
+- Structured `Property` and `SavedSearch` data models
+- In-memory deduplication using sets
+- `robots.txt` checking and polite request delays
+- Offline tests for parsing, matching and duplicate detection
+
+<a href="https://github.com/fentiogbue13-web/property-monitor"><img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
 
 ---
 
